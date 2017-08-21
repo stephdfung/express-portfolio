@@ -4,6 +4,8 @@
   "description": "Express portfolio",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemonapp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stephanie Fung",
@@ -18,5 +20,8 @@
   "homepage": "https://github.com/stephdfung/express-portfolio#readme",
   "dependencies": {
     "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
