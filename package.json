@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stephanie Fung",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephdfung/express-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stephdfung/express-portfolio/issues"
+  },
+  "homepage": "https://github.com/stephdfung/express-portfolio#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
